@@ -29,3 +29,10 @@ _ReSharper*/
 [Tt]est[Rr]esult*
 deploy.config
 Examples*/
+
+# For Unity Develop
+ForUnity/Library/
+ForUnity/Temp/
+ForUnity/.vs/
+ForUnity/*.sln
+ForUnity/*.csproj
